@@ -25,7 +25,7 @@ The data has been obtained from https://archive.ics.uci.edu/dataset/891/cdc+diab
 ## Methodology
 
 ### What methods are you using to answer the question?
-My analysis started with a thorough exploration of the data, visualizing how individual and combined features were related to the diabetes outcome. This visualization process helped identify and remove features with little to no predictive value. Using the remaining significant features, I established initial performance benchmarks. I then applied diverse classification algorithms and fine-tuning methods to improve the model's accuracy. This systematic approach ultimately revealed the key factors most predictive of diabetes risk.
+My analysis started with a thorough exploration of the data, visualizing how individual and combined features were related to the diabetes outcome. This visualization process helped identify and remove features with little to no predictive value. Using the remaining significant features, I established initial performance benchmarks. I then applied diverse classification algorithms <b> (K-Nearest Neighbor, Decision Trees, and Support Vector Machines)</b> and fine-tuning methods to improve the model's accuracy.  This systematic approach ultimately revealed the key factors most predictive of diabetes risk.
 
 ## Results
 
