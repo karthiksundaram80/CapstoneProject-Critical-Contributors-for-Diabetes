@@ -38,7 +38,7 @@ The absence of diabetes is strongly linked to a healthy BMI and overall wellness
 I plan to explore additional classification methods, subject to my computer's processing capabilities, with the goal of further improving the model's performance metrics
 
 ### Outline of Project
-https://github.com/karthiksundaram80/CapstoneProject-Critical-Contributors-for-Diabetes
+https://github.com/karthiksundaram80/CapstoneProject-Critical-Contributors-for-Diabetes/blob/main/Capstone%20Project%20-%20Critical%20Contributors%20for%20Diabetes_Karthik%20Sundaram.ipynb
 
 ### Contact and Further Information
 We welcome your input on how to improve this model. To share your ideas or recommendations, please reach out to me at karthiksundaram80@gmail.com. I'm eager to explore this topic further with you!!
